@@ -202,7 +202,7 @@ footer  {
 .footer-container span {
     font-size: .8rem;
     font-style: normal;
-    text-transform: lowercase;
+    text-transform: capitalize;
     line-height: 2em;
 }
 
