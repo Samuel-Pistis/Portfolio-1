@@ -14,7 +14,6 @@
 }
 
 
-
 body {
     margin: 0;
     padding: 0;
@@ -94,7 +93,7 @@ nav ul li a:hover {
 
 .stats {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr ));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr ));
     margin-top:.8em;
     padding: .5em 0em .5em 0em;
     gap: .5rem;
